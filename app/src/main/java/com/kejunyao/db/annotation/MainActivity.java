@@ -1,4 +1,4 @@
-package com.kejunyao.db;
+package com.kejunyao.db.annotation;
 
 import androidx.appcompat.app.AppCompatActivity;
 
